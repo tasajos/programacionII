@@ -1,0 +1,15 @@
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\bin\Debug\net10.0\dev2.exe
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\bin\Debug\net10.0\dev2.deps.json
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\bin\Debug\net10.0\dev2.runtimeconfig.json
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\bin\Debug\net10.0\dev2.dll
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\bin\Debug\net10.0\dev2.pdb
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\obj\Debug\net10.0\dev2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\obj\Debug\net10.0\dev2.AssemblyInfoInputs.cache
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\obj\Debug\net10.0\dev2.AssemblyInfo.cs
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\obj\Debug\net10.0\dev2.csproj.CoreCompileInputs.cache
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\obj\Debug\net10.0\dev2.sourcelink.json
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\obj\Debug\net10.0\dev2.dll
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\obj\Debug\net10.0\refint\dev2.dll
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\obj\Debug\net10.0\dev2.pdb
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\obj\Debug\net10.0\dev2.genruntimeconfig.cache
+D:\ITIA\CURSOSIA\DEVII\programacionII\dev2\obj\Debug\net10.0\ref\dev2.dll
