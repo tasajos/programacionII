@@ -5,6 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>dev2.Clase02.clase02ia</StartupObject>
   </PropertyGroup>
 
 </Project>
