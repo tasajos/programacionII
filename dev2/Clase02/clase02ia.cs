@@ -12,19 +12,28 @@ namespace dev2.Clase02
         {
 
             //Console.WriteLine("Bienvenido a Programacion II - Clase02");
-            saludar();
+            //saludar();
+            metodosfunciones.Saludar();
             //Introducir Datos
-            datos();
+            metodosfunciones.Datos();
 
             Console.WriteLine("Por favor introduce un valor para comprobar la calculadora en a");
             double a = double.Parse(Console.ReadLine());
             Console.WriteLine("Por favor introduce un valor para comprobar la calculadora en b");
             double b = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("La suma es" + " " + metodosfunciones.Sumar(a, b));
+            Console.WriteLine("La suma es" + " " + metodosfunciones.Resta(a, b));
+            Console.WriteLine("La suma es" + " " + metodosfunciones.Multiplicacion(a, b));
+            Console.WriteLine("La suma es" + " " + metodosfunciones.Dividir(a, b));
+
+
+            /*
             Console.WriteLine("La suma es" +" " + Sumar(a, b));
             Console.WriteLine("La resta es" + " " + Restar(a, b));
             Console.WriteLine("La multiplicacion es" + " " + Multiplicar(a, b));
             Console.WriteLine("La division es" + " " + Dividir(a, b));
-
+            */
 
 
         }
@@ -33,12 +42,14 @@ namespace dev2.Clase02
         /*Metodos
          * 
          * 
-         */
+         *
 
         static void saludar()
         {
          Console.WriteLine("Bienvenido a la clase nro 2");
         }
+
+        
 
         static void datos()
         {
@@ -52,6 +63,7 @@ namespace dev2.Clase02
             Console.WriteLine("Muchas gracias " + nombre + " " + "Tu experiencia de " + experiencia + "años" + " " + " el tiempo que le dedicas  " + " " + tiempo + "min " + " " +
                                 " sera un pilar fundamental para el desarrollo de la clase");
         }
+        */
 
 
         /*
