@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\chakuysoft\\prunicen\\programacionII\\dev2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E3279B5-67A8-B44A-480E-B505D7F4C1AD}|dev2.csproj|d:\\chakuysoft\\prunicen\\programacionii\\dev2\\clase02\\clase02ia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3279B5-67A8-B44A-480E-B505D7F4C1AD}|dev2.csproj|solutionrelative:clase02\\clase02ia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E3279B5-67A8-B44A-480E-B505D7F4C1AD}|dev2.csproj|d:\\chakuysoft\\prunicen\\programacionii\\dev2\\clase01\\clase01ia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3279B5-67A8-B44A-480E-B505D7F4C1AD}|dev2.csproj|solutionrelative:clase01\\clase01ia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "clase02ia.cs",
+              "DocumentMoniker": "D:\\chakuysoft\\prunicen\\programacionII\\dev2\\Clase02\\clase02ia.cs",
+              "RelativeDocumentMoniker": "Clase02\\clase02ia.cs",
+              "ToolTip": "D:\\chakuysoft\\prunicen\\programacionII\\dev2\\Clase02\\clase02ia.cs",
+              "RelativeToolTip": "Clase02\\clase02ia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T02:04:12.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "D:\\chakuysoft\\prunicen\\programacionII\\dev2\\Calculadora.cs",
               "RelativeDocumentMoniker": "Calculadora.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "Calculadora.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T22:49:20.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T22:49:20.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "metodosfunciones.cs",
               "DocumentMoniker": "D:\\chakuysoft\\prunicen\\programacionII\\dev2\\Clase02\\metodosfunciones.cs",
               "RelativeDocumentMoniker": "Clase02\\metodosfunciones.cs",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "Clase02\\metodosfunciones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T22:48:52.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T22:48:52.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "dev2.csproj",
               "DocumentMoniker": "D:\\chakuysoft\\prunicen\\programacionII\\dev2\\dev2.csproj",
               "RelativeDocumentMoniker": "dev2.csproj",
@@ -68,12 +83,11 @@
               "RelativeToolTip": "dev2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-09T00:40:53.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-09T00:40:53.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "clase01ia.cs",
               "DocumentMoniker": "D:\\chakuysoft\\prunicen\\programacionII\\dev2\\Clase01\\clase01ia.cs",
               "RelativeDocumentMoniker": "Clase01\\clase01ia.cs",
@@ -81,12 +95,11 @@
               "RelativeToolTip": "Clase01\\clase01ia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T23:33:20.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T23:33:20.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\chakuysoft\\prunicen\\programacionII\\dev2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -94,8 +107,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T19:18:39.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T19:18:39.275Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
